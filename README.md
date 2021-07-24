@@ -32,6 +32,7 @@ Our project is using wei board to do some audio data preprocessing (e.g. down sa
 ## Hardware-And-Software-Setup
 ### Required-Hardware
 - Himax WE-I Plus EVB board
+
 ![](https://github.com/Shoawen0213/2021_ARC/blob/main/doc/17256-Himax_WE-I_Plus_EVB_Endpoint_AI_Development_Board-01.jpg)  
 
 ### Required-Software
