@@ -43,29 +43,29 @@ Himax WE-I Plus EVB board
 # User-Manual
 ### Building-image
 * Makefile
-	* folder "Code/Build_img"
-	* using "make" to compile the code (main.c)
-	* under windows environment
+	* Folder："Code/Build_img"
+	* Using "make" to compile the code (main.c)
+	* Under windows environment
 * img file
-	* folder "Code/Build_img"
-	* using "make flash" to generate the img file (output_gnu.img)
-	* under linux environment
+	* Folder："Code/Build_img"
+	* Using "make flash" to generate the img file (output_gnu.img)
+	* Under linux environment
 ### Programing
 * flash image into board
-	* using XMODEM to transmit img file (output_gnu.img)
+	* Using XMODEM to transmit img file (output_gnu.img)
 	* UART bard rate 115200bps
 ### Geting-Start
 * Normal mode
-	* push reset button on the board
-	* execute "Code/Python/demo_A" Jupyter file to receive data from board (recording_a.txt)
-	* execute "Code/Python/TRANS_WAV" Jupyter file to transform data to wav file (Recording_0724.wav)
-	* execute "Code/Python/Inference" Jupyter file to recognise the wav file 
+	* Push reset button on the board
+	* Execute "Code/Python/demo_A" Jupyter file to receive data from board       (e.g. recording_a.txt)
+	* Execute "Code/Python/TRANS_WAV" Jupyter file to transform data to wav file (e.g. Recording_0724.wav)
+	* Execute "Code/Python/Inference" Jupyter file to recognise the wav file 
 	
 * Voice-Changing mode
-	* push reset button on the board
-	* execute "Code/Python/demo_D" Jupyter file to receive data from board (recording_CV.txt)
-	* execute "Code/Python/Chang_voice" Jupyter file to transform data to wav file (Recording_change_voice_0724.wav)
-	* execute "Code/Python/Inference" Jupyter file to recognise the wav file
+	* Push reset button on the board
+	* Execute "Code/Python/demo_D" Jupyter file to receive data from board         (e.g. recording_CV.txt)
+	* Execute "Code/Python/Chang_voice" Jupyter file to transform data to wav file (e.g. Recording_change_voice_0724.wav)
+	* Execute "Code/Python/Inference" Jupyter file to recognise the wav file
 	
 # DemoVideo
 [Link]
