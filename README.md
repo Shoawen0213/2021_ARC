@@ -55,15 +55,15 @@ Himax WE-I Plus EVB board
 ### Geting-Start
 * normal mode
 	* push reset button on the board
-	* execute "demo_A" Jupyter file to receive data from board (recording_a.txt)
-	* execute "TRANS_WAV" Jupyter file to transform data to wav file (Recording_0724.wav)
-	* execute "Inference" Jupyter file to recognise the wav file 
+	* execute "Code/Python/demo_A" Jupyter file to receive data from board (recording_a.txt)
+	* execute "Code/Python/TRANS_WAV" Jupyter file to transform data to wav file (Recording_0724.wav)
+	* execute "Code/Python/Inference" Jupyter file to recognise the wav file 
 	
 * change voice mode
 	* push reset button on the board
-	* execute "demo_D" Jupyter file to receive data from board (recording_CV.txt)
-	* execute "Chang_voice" Jupyter file to transform data to wav file (Recording_change_voice_0724.wav)
-	* execute "Inference" Jupyter file to recognise the wav file
+	* execute "Code/Python/demo_D" Jupyter file to receive data from board (recording_CV.txt)
+	* execute "Code/Python/Chang_voice" Jupyter file to transform data to wav file (Recording_change_voice_0724.wav)
+	* execute "Code/Python/Inference" Jupyter file to recognise the wav file
 	
 # DemoVideo
 [Link]
