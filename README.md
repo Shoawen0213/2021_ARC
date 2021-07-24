@@ -1,4 +1,5 @@
-# ARC Speaker Diarization implement on edge based on transfer learning
+# ARC 2021 
+# Speaker Diarization implement on edge based on transfer learning
 
 Our project is using wei board to do some audio data preprocessing (e.g. down sampling, normalize, data format transform ... ) and then using machine learning model to recognise different speaker and transform audio to txt file.
 
