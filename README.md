@@ -52,7 +52,7 @@ Himax WE-I Plus EVB board
 	* under linux environment
 ### Programing
 * flash image into board
-	* using XMODEM to transmit img file
+	* using XMODEM to transmit img file (output_gnu.img)
 	* UART bard rate 115200bps
 ### Geting-Start
 * normal mode
