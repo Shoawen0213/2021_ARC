@@ -23,7 +23,7 @@ Our project is using wei board to do some audio data preprocessing (e.g. down sa
 ## System-Architecture
 - Himax WE-I Plus EVB board use UART to communicate with host.
 
-host use pyserial to receive data from board.
+- Host use PySerial to receive data from board.
 
 ## Hardware-And-Software-Setup
 ### Required-Hardware
