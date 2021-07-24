@@ -17,9 +17,9 @@ Our project is using wei board to do some audio data preprocessing (e.g. down sa
 # Introduction
 Our project is using wei board to do some audio data preprocessing (e.g. down sampling, normalize, data format transform ... ) and then using machine learning model to recognise different speaker and transform audio to txt file.
 
-* Main Task Of Our Platform
-    - microphone
-    - Data preprocessing(e.g. down sampling, normalize, data format transform)
+* Main Task of Our Platform
+    - Microphone
+    - Data preprocessing (e.g. down sampling, normalize, data format transform)
 
 ## System-Architecture
 - Himax WE-I Plus EVB board use UART to communicate with host.
@@ -28,7 +28,7 @@ Our project is using wei board to do some audio data preprocessing (e.g. down sa
 
 ## Hardware-And-Software-Setup
 ### Required-Hardware
-Himax WE-I Plus EVB board
+- Himax WE-I Plus EVB board
 
 ### Required-Software
 * ARC_GNU Environment 
