@@ -24,6 +24,7 @@ Our project is using wei board to do some audio data preprocessing (e.g. down sa
     - Data preprocessing (e.g. down sampling, normalize, data format transform)
 
 ## System-Architecture
+![](https://github.com/Shoawen0213/2021_ARC/blob/main/doc/system_ar.png)  
 - Himax WE-I Plus EVB board use UART to communicate with host.
 
 - Host use PySerial to receive data from board.
@@ -31,6 +32,7 @@ Our project is using wei board to do some audio data preprocessing (e.g. down sa
 ## Hardware-And-Software-Setup
 ### Required-Hardware
 - Himax WE-I Plus EVB board
+![](https://github.com/Shoawen0213/2021_ARC/blob/main/doc/17256-Himax_WE-I_Plus_EVB_Endpoint_AI_Development_Board-01.jpg)  
 
 ### Required-Software
 * ARC_GNU Environment 
