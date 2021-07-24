@@ -3,7 +3,8 @@
 # OASIS_X-FMR @ NCTU 
 ## Speaker Diarization implement on edge based on transfer learning
 
-Our project is using wei board to do some audio data preprocessing (e.g. down sampling, normalize, data format transform ... ) and then using machine learning model to recognise different speaker and transform audio to txt file.
+In this contest, we aim to develop a robust, general and accurate speaker diarization model which support configurable parameters.The computation complexity and time-consuming tranmissive time our proposed would be solved by doing data pre-processing with the help of Himax WE-I. 
+Our project is using WE-I board to do some audio data preprocessing (e.g. down sampling, normalize, data format transform ... ) and then using machine learning model to recognize different speaker and transform audio into txt file.
 
 * [Introduction](#Introduction)
 	* [System Architecture](#System-Architecture)
@@ -17,7 +18,7 @@ Our project is using wei board to do some audio data preprocessing (e.g. down sa
          * [DemoVideo](#DemoVideo)
 
 # Introduction
-Our project is using wei board to do some audio data preprocessing (e.g. down sampling, normalize, data format transform ... ) and then using machine learning model to recognise different speaker and transform audio to txt file.
+Our project is using WE-I board to do some audio data preprocessing (e.g. down sampling, normalize, data format transform ... ) and then using machine learning model to recognize different speaker and transform audio into txt file..
 
 * Main Task of Our Platform
     - Microphone
