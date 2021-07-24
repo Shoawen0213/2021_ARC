@@ -55,13 +55,13 @@ Himax WE-I Plus EVB board
 	* using XMODEM to transmit img file (output_gnu.img)
 	* UART bard rate 115200bps
 ### Geting-Start
-* normal mode
+* Normal mode
 	* push reset button on the board
 	* execute "Code/Python/demo_A" Jupyter file to receive data from board (recording_a.txt)
 	* execute "Code/Python/TRANS_WAV" Jupyter file to transform data to wav file (Recording_0724.wav)
 	* execute "Code/Python/Inference" Jupyter file to recognise the wav file 
 	
-* change voice mode
+* Voice-Changing mode
 	* push reset button on the board
 	* execute "Code/Python/demo_D" Jupyter file to receive data from board (recording_CV.txt)
 	* execute "Code/Python/Chang_voice" Jupyter file to transform data to wav file (Recording_change_voice_0724.wav)
