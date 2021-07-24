@@ -43,9 +43,11 @@ Himax WE-I Plus EVB board
 # User-Manual
 ### Building-image
 * Makefile
+	* folder "Code/Build_img"
 	* using "make" to compile the code (main.c)
 	* under windows environment
 * img file
+	* folder "Code/Build_img"
 	* using "make flash" to generate the img file (output_gnu.img)
 	* under linux environment
 ### Programing
