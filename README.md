@@ -18,7 +18,6 @@ Our project is using WE-I board to do some audio data preprocessing (e.g. down s
          * [DemoVideo](#DemoVideo)
 
 # Introduction
-Our project is using WE-I board to do some audio data preprocessing (e.g. down sampling, normalize, data format transform ... ) and then using machine learning model to recognize different speaker and transform audio into txt file..
 
 * Main Task of Our Platform
     - Microphone
