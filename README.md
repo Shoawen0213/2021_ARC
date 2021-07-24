@@ -72,7 +72,9 @@ Our project is using wei board to do some audio data preprocessing (e.g. down sa
 	* Execute "Code/Python/demo_D" Jupyter file to receive data from board         (e.g. recording_CV.txt)
 	* Execute "Code/Python/Chang_voice" Jupyter file to transform data to wav file (e.g. Recording_change_voice_0724.wav)
 	* Execute "Code/Python/Inference" Jupyter file to recognise the wav file
-	
+
+# Demo 
+![](https://github.com/Shoawen0213/2021_ARC/blob/main/doc/S__56868870.jpg)
 # DemoVideo
 [Link]
 	
