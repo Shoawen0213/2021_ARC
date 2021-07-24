@@ -1,5 +1,4 @@
-![](https://github.com/Shoawen0213/2021_ARC/blob/main/doc/synopsys_arc.png)
-# ARC 2021 
+![](https://github.com/Shoawen0213/2021_ARC/blob/main/doc/synopsys_arc.png)  # ARC 2021 
 # Speaker Diarization implement on edge based on transfer learning
 
 Our project is using wei board to do some audio data preprocessing (e.g. down sampling, normalize, data format transform ... ) and then using machine learning model to recognise different speaker and transform audio to txt file.
