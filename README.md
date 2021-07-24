@@ -21,7 +21,7 @@ Our project is using wei board to do some audio data preprocessing (e.g. down sa
     - Data preprocessing(e.g. down sampling, normalize, data format transform)
 
 ## System-Architecture
-Himax WE-I Plus EVB board use UART to communicate with host.
+- Himax WE-I Plus EVB board use UART to communicate with host.
 
 host use pyserial to receive data from board.
 
