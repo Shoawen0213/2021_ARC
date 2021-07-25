@@ -25,6 +25,7 @@ Our project is using WE-I board to do some audio data preprocessing (e.g. down s
 
 ## System-Architecture
 ![](https://github.com/Shoawen0213/2021_ARC/blob/main/doc/system_ar.png)  
+![](https://github.com/Shoawen0213/2021_ARC/blob/main/doc/SAF.png)  
 - Himax WE-I Plus EVB board use UART to communicate with host.
 
 - Host use PySerial to receive data from board.
