@@ -24,8 +24,6 @@ Our main goal is：
 - Make the model more robust and general which can accomplish speaker diarization accurately.
 - Provide a convenient way to configure the model.
 
-![image](https://user-images.githubusercontent.com/63163334/126901372-72a0151d-2ca0-45a3-a50d-8056f2e0d988.png)
-
 ![image](https://user-images.githubusercontent.com/63163334/126901343-28682ea9-8b5b-4e17-8824-e8098fd529c7.png)
 
 
