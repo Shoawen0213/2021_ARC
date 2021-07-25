@@ -18,7 +18,7 @@ Our project is using WE-I board to do some audio data preprocessing (e.g. down s
          * [DemoVideo](#DemoVideo)
 
 # Introduction
-we aim to develop a robust, general and accurate speaker diarization model which can be use in different scenario, such as Multi-Speaker Diarization for meeting, contract tracing and video speaker recognition ...etc.   
+we aim to develop a robust, general and accurate speaker diarization model which can be use in different scenario, such as Multi-Speaker Diarization for meeting, contract tracing and video speaker recognition ...etc.  
 Our main goal is：
 - Simplify the complex procedure and port an inference model on the limited computation platform.
 - Make the model more robust and general which can accomplish speaker diarization accurately.
